@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
     Typeface gamefont;
     public SoundPool soundpool = null;
     Map<Sound, Integer> soundMap = null;
-
+  
     /**
      * Initialize the activity.
      * @param savedInstanceState
